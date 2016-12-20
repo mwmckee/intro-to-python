@@ -1,7 +1,5 @@
 # The Adventures of Spaceman Spiff
 
-## **Introduction**
-
 Welcome to the gripping adventures of Spaceman Spiff!
 
 ## **About This Book**
