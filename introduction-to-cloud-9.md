@@ -18,6 +18,7 @@ Python3
 
 Getting Help
 
+use the help function
 
 
 
@@ -40,6 +41,8 @@ get started with good spacing habits early
 
 Make sure terminal is running Python 3
 
+
+tip: if you have a grammar error it'll let you know by having a red circle next to the line of code with the error
 
 
 
