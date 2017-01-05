@@ -44,5 +44,10 @@ Make sure terminal is running Python 3
 
 tip: if you have a grammar error it'll let you know by having a red circle next to the line of code with the error
 
+tip: frequently the error is before or after the line in which python tells you the errors
+
+Go back and forth between demonstrating and having the students try it for themselves
+
+
 
 
